@@ -27,3 +27,13 @@ All unofficial. The government agencies named on each page are the official sour
 Claude Code for the work itself; HyperFrames for motion graphics; Kokoro and Whisper for offline voices and timings; GarageBand, MiniMax-Music3 and Mureka for music; Blender for 3D. Data pages are plain HTML on GitHub Pages, refreshed by GitHub Actions.
 
 The cartoon and music pipeline is open source: [zero-cost-video-toolkit](https://github.com/charlestaysg/zero-cost-video-toolkit).
+
+## Working with me
+
+My DISC profile (Discflow) is Steadiness, leaning Compliance. In practice:
+
+- I follow through. If I say I'll do it, it gets done, and checked.
+- I think before I answer. If you need a decision now, say so; otherwise I'll come back with a considered one, usually within a day.
+- Clear briefs get my best work. Tell me what good looks like. If priorities change, a one-line heads-up helps.
+- I'm quiet in big groups. Ask what I think, or message me after; I usually have a view.
+- Tell me directly when you disagree. I'd rather hear it than guess.
