@@ -37,3 +37,7 @@ My DISC profile (Discflow) is Steadiness, leaning Compliance. In practice:
 - Clear briefs get my best work. Tell me what good looks like. If priorities change, a one-line heads-up helps.
 - I'm quiet in big groups. Ask what I think, or message me after; I usually have a view.
 - Tell me directly when you disagree. I'd rather hear it than guess.
+
+SCARF says the same from another angle: give me the plan early, leave the how to me, and change I choose is fine.
+
+More, including my side of the deal: [charlestaysg.github.io/working-with-me](https://charlestaysg.github.io/working-with-me/)
