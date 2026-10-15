@@ -31,6 +31,7 @@ The cartoon and music pipeline is open source: [zero-cost-video-toolkit](https:/
 ## Tools I plan to use for teaching
 
 - [CodeShare](https://codeshare.io/): a free shared text editor with no sign-up, so learners can write and compare a prompt together in one document.
+- [Padlet](https://padlet.com/): an online board where learners post text, images and links on one shared page, to gather everyone's ideas or questions in one place.
 
 ## Working with me
 
