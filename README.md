@@ -28,6 +28,10 @@ Claude Code for the work itself; HyperFrames for motion graphics; Kokoro and Whi
 
 The cartoon and music pipeline is open source: [zero-cost-video-toolkit](https://github.com/charlestaysg/zero-cost-video-toolkit).
 
+## Tools I plan to use for teaching
+
+- [CodeShare](https://codeshare.io/): a free shared text editor with no sign-up, so learners can write and compare a prompt together in one document.
+
 ## Working with me
 
 My DISC profile (Discflow) is Steadiness, leaning Compliance. In practice:
