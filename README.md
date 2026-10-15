@@ -20,7 +20,7 @@ All unofficial. The government agencies named on each page are the official sour
 
 - [Models as Insider Risks](https://charlestaysg.github.io/projects/models-as-insider-risks/): an 82-second breakdown of Satya Nadella's essay on AI models as insiders, with build notes
 - [Ben & Auntie Mei](https://charlestaysg.github.io/#ben-and-mei): five-minute cartoons on work and learning, with every number sourced
-- Songs: [Sunny Side](https://charlestaysg.github.io/#sunny-side) (English, 中文, 日本語), [Same Sky, Different Name](https://charlestaysg.github.io/#same-sky), [Carve Her a Heart](https://charlestaysg.github.io/#carve-her-a-heart), 家就是你 Home Is You
+- Songs: [Sunny Side](https://charlestaysg.github.io/#sunny-side) (English, 中文, 日本語), [Same Sky, Different Name](https://charlestaysg.github.io/#same-sky), [Carve Her a Heart](https://charlestaysg.github.io/#carve-her-a-heart), 家就是你 Home Is You, [Not Waiting Alone](https://youtu.be/Eu8Yx9KPTq4)
 
 ## How I build
 
