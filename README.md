@@ -38,6 +38,7 @@ The cartoon and music pipeline is open source: [zero-cost-video-toolkit](https:/
 - **Your Name** (君の名は。, Makoto Shinkai, 2016): the music, the plot and how deep it goes. RADWIMPS wrote the whole soundtrack; my pick is "Sparkle" ([movie version](https://youtu.be/A0at5cAlbZQ)).
 - **5 Centimeters per Second** (秒速5センチメートル, Makoto Shinkai, 2007): the film ends on Masayoshi Yamazaki's "[One more time, One more chance](https://youtu.be/BqFftJDXii0)". I've replayed it hundreds of times.
 - **Spirited Away** (千と千尋の神隠し, Hayao Miyazaki, 2001): Joe Hisaishi's "[One Summer's Day](https://youtu.be/TK1Ij_-mank)".
+- **The Apothecary Diaries, Season 3** (薬屋のひとりごと, 2026): opening by Yorushika, 「[雲を抜け風下へ私だけ](https://youtu.be/J5-NUv2fNtk)」 ([anime opening](https://youtu.be/lBsQCQDbgOE)); ending by Eve, "[AIYOU](https://youtu.be/2rhLKnWCo6Y)" ([anime ending](https://youtu.be/kswDfgziS9I)).
 
 Love Japanese anime too? Tell me your favourite and the song that goes with it: [open an issue here](https://github.com/charlestaysg/charlestaysg/issues/new?title=My%20favourite%20anime) or message me on LinkedIn.
 
