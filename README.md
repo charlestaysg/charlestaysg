@@ -39,6 +39,7 @@ The cartoon and music pipeline is open source: [zero-cost-video-toolkit](https:/
 - **5 Centimeters per Second** (秒速5センチメートル, Makoto Shinkai, 2007): the film ends on Masayoshi Yamazaki's "[One more time, One more chance](https://youtu.be/BqFftJDXii0)". I've replayed it hundreds of times.
 - **Spirited Away** (千と千尋の神隠し, Hayao Miyazaki, 2001): Joe Hisaishi's "[One Summer's Day](https://youtu.be/TK1Ij_-mank)".
 - **The Apothecary Diaries, Season 3** (薬屋のひとりごと, 2026): opening by Yorushika, 「[雲を抜け風下へ私だけ](https://youtu.be/J5-NUv2fNtk)」 ([anime opening](https://youtu.be/lBsQCQDbgOE)); ending by Eve, "[AIYOU](https://youtu.be/2rhLKnWCo6Y)" ([anime ending](https://youtu.be/kswDfgziS9I)).
+- **Macross: Do You Remember Love?** (超時空要塞マクロス 愛・おぼえていますか, Shoji Kawamori and Noboru Ishiguro, 1984): my favourite, Mari Iijima's "Do You Remember Love?" (愛・おぼえていますか) over the film's climax ([film scene, spoilers](https://youtu.be/wckZcVFLU24); [official music video](https://youtu.be/OfuW_Wbt73c)).
 
 Love Japanese anime too? Tell me your favourite and the song that goes with it: [open an issue here](https://github.com/charlestaysg/charlestaysg/issues/new?title=My%20favourite%20anime) or message me on LinkedIn.
 
