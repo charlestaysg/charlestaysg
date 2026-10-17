@@ -40,6 +40,8 @@ The cartoon and music pipeline is open source: [zero-cost-video-toolkit](https:/
 - **Spirited Away** (千と千尋の神隠し, Hayao Miyazaki, 2001): Joe Hisaishi's "[One Summer's Day](https://youtu.be/TK1Ij_-mank)".
 - **The Apothecary Diaries, Season 3** (薬屋のひとりごと, 2026): opening by Yorushika, 「[雲を抜け風下へ私だけ](https://youtu.be/J5-NUv2fNtk)」 ([anime opening](https://youtu.be/lBsQCQDbgOE)); ending by Eve, "[AIYOU](https://youtu.be/2rhLKnWCo6Y)" ([anime ending](https://youtu.be/kswDfgziS9I)).
 - **Macross: Do You Remember Love?** (超時空要塞マクロス 愛・おぼえていますか, Shoji Kawamori and Noboru Ishiguro, 1984): my favourite, Mari Iijima's "Do You Remember Love?" (愛・おぼえていますか) over the film's climax ([film scene, spoilers](https://youtu.be/wckZcVFLU24); [official music video](https://youtu.be/OfuW_Wbt73c)).
+- **Castle in the Sky** (天空の城ラピュタ, Hayao Miyazaki, 1986): my pick is "Carrying You" (君をのせて), the song over the end credits, music by Joe Hisaishi, sung by Azumi Inoue ([listen](https://youtu.be/gdpEnkcT7Io); [Joe Hisaishi's own version](https://youtu.be/Ld02uYVAW18)).
+- **Howl's Moving Castle** (ハウルの動く城, Hayao Miyazaki, 2004): Joe Hisaishi's "[Merry-Go-Round of Life](https://youtu.be/2pQKqQ9sG50)" (人生のメリーゴーランド), played by the Royal Philharmonic Orchestra with Hisaishi conducting.
 
 Love Japanese anime too? Tell me your favourite and the song that goes with it: [open an issue here](https://github.com/charlestaysg/charlestaysg/issues/new?title=My%20favourite%20anime) or message me on LinkedIn.
 
