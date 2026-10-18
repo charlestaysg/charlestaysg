@@ -22,6 +22,27 @@ All unofficial. The government agencies named on each page are the official sour
 - [Ben & Auntie Mei](https://charlestaysg.github.io/#ben-and-mei): five-minute cartoons on work and learning, with every number sourced
 - Songs: [Sunny Side](https://charlestaysg.github.io/#sunny-side) (English, 中文, 日本語), [Same Sky, Different Name](https://charlestaysg.github.io/#same-sky), [Carve Her a Heart](https://charlestaysg.github.io/#carve-her-a-heart), 家就是你 Home Is You, [Not Waiting Alone](https://youtu.be/Eu8Yx9KPTq4)
 
+## Security news, in plain English
+
+Online security stories I read, and what a small business can do about each one. I'm not a security specialist, so every item links to the original report.
+
+### Oct 2026 · An ad that can hack a phone without a click
+
+Researchers at Citizen Lab found spyware that reached Al Jazeera staff through online ads in 2024 and 2025. Nobody had to click: the ad only had to load on a web page or in an app. A company posing as an ad seller bought ad space and aimed the ads at chosen people by location and internet address. Once in, the spyware could copy passwords, documents and messages, and take screenshots. Google has since cut the ad company off its platform.
+
+What a small business can do:
+
+- **Turn on automatic updates** for phones and browsers. This attack needed a flaw in the browser or app, and updates close those flaws.
+- **Restart phones once a week.** Some spyware doesn't survive a restart.
+- **Load fewer ads.** An ad blocker on work laptops means your devices open fewer ads.
+- **Protect the few people most at risk.** Staff who handle payments, contracts or personal data can turn on Lockdown Mode (iPhone) or Advanced Protection (Android).
+
+Each batch of targets cost millions, so most SME staff won't face this exact attack. Cheaper versions of the same trick, called malvertising, are common.
+
+[Citizen Lab's report](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/) · [Al Jazeera's 4-minute video](https://youtu.be/oTNqhH4KzxY)
+
+<sub>Summarised on 18 Oct 2026 from Citizen Lab's report and Al Jazeera's video.</sub>
+
 ## How I build
 
 Claude Code for the work itself; HyperFrames for motion graphics; Kokoro and Whisper for offline voices and timings; GarageBand, MiniMax-Music3 and Mureka for music; Blender for 3D. Data pages are plain HTML on GitHub Pages, refreshed by GitHub Actions.
