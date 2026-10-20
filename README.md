@@ -2,25 +2,31 @@
 
 Workplace learning designer in Singapore, in learning and development since 2004. I don't write code, but I build with AI: live pages on Singapore public data, short explainer cartoons and music videos.
 
-**Site:** [charlestaysg.github.io](https://charlestaysg.github.io) · **Videos:** [youtube.com/@CharlesTay](https://www.youtube.com/@CharlesTay) · **Contact:** [LinkedIn](https://www.linkedin.com/in/charlestay)
+**Site:** [charlestaysg.com](https://charlestaysg.com) · **Videos:** [youtube.com/@CharlesTay](https://www.youtube.com/@CharlesTay) · **Contact:** [LinkedIn](https://www.linkedin.com/in/charlestay)
 
 ## Live pages
 
 | Page | What it does |
 |---|---|
-| [Singapore Haze, Hourly](https://charlestaysg.github.io/projects/sg-haze/) | NEA's 1-hour PM2.5 next to the US AQI for each region, with wind, rain forecast and a GP finder |
-| [Live Workplace Conditions](https://charlestaysg.github.io/projects/workplace-conditions/) | Heat stress for outdoor workers, turned into MOM's rest and water guidance |
-| [SME Workforce Pulse](https://charlestaysg.github.io/projects/sme-pulse/) | Vacancies, retrenchments and career-switch courses by sector, from MOM data, refreshed monthly |
-| [Skills Training Landscape](https://charlestaysg.github.io/projects/skills-landscape/) | SkillsFuture-listed courses next to the roles still open, by sector |
-| [Pre-visit Fact Sheet](https://charlestaysg.github.io/projects/uen-sheet/) | A one-page brief on a company from its UEN, using the public ACRA record |
+| [Singapore Haze, Hourly](https://charlestaysg.com/projects/sg-haze/) | NEA's 1-hour PM2.5 next to the US AQI for each region, with wind, rain forecast and a GP finder |
+| [Live Workplace Conditions](https://charlestaysg.com/projects/workplace-conditions/) | Heat stress for outdoor workers, turned into MOM's rest and water guidance |
+| [SME Workforce Pulse](https://charlestaysg.com/projects/sme-pulse/) | Vacancies, retrenchments and career-switch courses by sector, from MOM data, refreshed monthly |
+| [Skills Training Landscape](https://charlestaysg.com/projects/skills-landscape/) | SkillsFuture-listed courses next to the roles still open, by sector |
+| [Pre-visit Fact Sheet](https://charlestaysg.com/projects/uen-sheet/) | A one-page brief on a company from its UEN, using the public ACRA record |
 
 All unofficial. The government agencies named on each page are the official sources.
 
 ## Videos
 
-- [Models as Insider Risks](https://charlestaysg.github.io/projects/models-as-insider-risks/): an 82-second breakdown of Satya Nadella's essay on AI models as insiders, with build notes
-- [Ben & Auntie Mei](https://charlestaysg.github.io/#ben-and-mei): five-minute cartoons on work and learning, with every number sourced
-- Songs: [Sunny Side](https://charlestaysg.github.io/#sunny-side) (English, 中文, 日本語), [Same Sky, Different Name](https://charlestaysg.github.io/#same-sky), [Carve Her a Heart](https://charlestaysg.github.io/#carve-her-a-heart), 家就是你 Home Is You, [Not Waiting Alone](https://youtu.be/Eu8Yx9KPTq4)
+- [Models as Insider Risks](https://charlestaysg.com/projects/models-as-insider-risks/): an 82-second breakdown of Satya Nadella's essay on AI models as insiders, with build notes
+- [Ben & Auntie Mei](https://charlestaysg.com/#ben-and-mei): five-minute cartoons on work and learning, with every number sourced
+- Songs: [Sunny Side](https://charlestaysg.com/#sunny-side) (English, 中文, 日本語), [Same Sky, Different Name](https://charlestaysg.com/#same-sky), [Carve Her a Heart](https://charlestaysg.com/#carve-her-a-heart), 家就是你 Home Is You, [Not Waiting Alone](https://youtu.be/Eu8Yx9KPTq4)
+
+## How I decide
+
+- [How I decide with AI](https://charlestaysg.com/notes/portable-audio/): a year of hi-fi decisions, and what AI spotted looking back
+- [The test that overruled AI](https://charlestaysg.com/notes/laptop-for-ai/): a laptop I bought twice, and the overnight test that settled it
+- [Why I paid more for an air purifier](https://charlestaysg.com/notes/air-purifier/): 20 years of Sharp, Philips, Xiaomi and Dyson, and what other owners say
 
 ## Security news, in plain English
 
@@ -78,4 +84,4 @@ My DISC profile (Discflow) is Steadiness, leaning Compliance. In practice:
 
 SCARF says the same from another angle: give me the plan early, leave the how to me, and change I choose is fine.
 
-More, including my side of the deal: [charlestaysg.github.io/working-with-me](https://charlestaysg.github.io/working-with-me/)
+More, including my side of the deal: [charlestaysg.com/working-with-me](https://charlestaysg.com/working-with-me/)
