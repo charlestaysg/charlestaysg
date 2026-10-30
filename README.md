@@ -32,6 +32,25 @@ All unofficial. The government agencies named on each page are the official sour
 
 Online security stories I read, and what a small business can do about each one. I'm not a security specialist, so every item links to the original report.
 
+### Oct 2026 · One misplaced bracket, 95,364 email addresses
+
+In April, a Bee Cheng Hiang employee used a personal AI tool to write a script for a members' mailing. The prompt asked for "mass email using a local list" in batches, but didn't say each person should see only their own address. One bracket sat in the wrong place, so every batch of 1,000 went out with all the addresses in the To line. The test only checked the send logs, not the email itself.
+
+95,364 members were affected. PDPC says the AI tool didn't malfunction; it wrote what it was asked for. It is the first AI-related breach reported to PDPC, which accepted a voluntary undertaking in September.
+
+A separate rule took effect on 20 July. If you use customers' personal data to train or fine-tune a generative AI model, you need a notice written for that purpose. A line in your privacy policy isn't enough, and you can't refuse service to people who say no.
+
+What a small business can do:
+
+- **Test before any bulk send.** Mail a test to two of your own inboxes and open it.
+- **Get a second check.** Someone else reviews AI-written code or mail settings that touch customer data.
+- **Write one page.** List which AI tools staff may use for work, and which data stays out of them.
+- **Ask your vendors.** If a supplier wants to train AI on your customer data, ask what notice your customers will get.
+
+[PDPC's decision](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/voluntary-undertaking-by-bee-cheng-hiang-marketing-pte-ltd) · [PDPC's generative AI guidelines](https://www.pdpc.gov.sg/organisations/regulations-decisions/regulatory-guidance/advisory-guidelines-on-use-of-personal-data-in-generative-ai)
+
+<sub>Summarised on 30 Oct 2026 from PDPC's published decision and guidelines. I'm not a lawyer.</sub>
+
 ### Oct 2026 · An ad that can hack a phone without a click
 
 Researchers at Citizen Lab found spyware that reached Al Jazeera staff through online ads in 2024 and 2025. Nobody had to click: the ad only had to load on a web page or in an app. A company posing as an ad seller bought ad space and aimed the ads at chosen people by location and internet address. Once in, the spyware could copy passwords, documents and messages, and take screenshots. Google has since cut the ad company off its platform.
